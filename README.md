@@ -5,7 +5,12 @@ This is a **simple game** that can support **Realtime Data & Offline Caching** u
 I call this "**Stream-based** Architecture for Flutter & Firebase **Realtime** Apps".
 
 # Demo
-![Demo](gif)
+![Demo](https://github.com/madhu6264/Roll-a-Dice/blob/master/roll_a_dice.gif)
+
+# Release APK
+![Release APK](https://github.com/madhu6264/Roll-a-Dice/blob/master/app-release.apk)
+
+
 
 # Features
 * Firebase Authentication
@@ -13,7 +18,7 @@ I call this "**Stream-based** Architecture for Flutter & Firebase **Realtime** A
 * Maintain app sate
 * Offline Capabily
 * Supporting flutter build varients like Dev, Staging, Prod
-    
+
 ## Getting Started
 **Note:** Make sure your Flutter environment is [setup](https://flutter.io/getting-started/).
 
@@ -21,9 +26,9 @@ I call this "**Stream-based** Architecture for Flutter & Firebase **Realtime** A
 
 In the command terminal, run the following commands:
 
-    $ git clone 
+    $ git clone https://github.com/madhu6264/Roll-a-Dice/tree/master
     $ cd FlatApp-Firebase-Flutter/
-    
+
 #### Setup Flutter Firebase integration
 Check out the [documentation](https://codelabs.developers.google.com/codelabs/flutter-firebase/#4) to setup Flutter Firebase integration.
 
@@ -37,7 +42,7 @@ In `ios/Runner` folder add your `GoogleService-Info.plist`.
 
 # Simulate for iOS
 #### Method One
-    
+
     Open the project in Xcode from ios/Runner.xcodeproj.
     Hit the play button.
 
@@ -52,8 +57,8 @@ In `ios/Runner` folder add your `GoogleService-Info.plist`.
     Make sure you have an Android emulator installed and running.
     Run the following command in your terminal.
     $ flutter run
-    
-##### Check out Flutter’s online [documentation](http://flutter.io/) for help getting start with your Flutter project. 
+
+##### Check out Flutter’s online [documentation](http://flutter.io/) for help getting start with your Flutter project.
 
 
 
