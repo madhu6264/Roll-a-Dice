@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "287408029504",
+    "project_id": "roll-a-dice-fd40c",
+    "storage_bucket": "roll-a-dice-fd40c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287408029504:android:849e2f04421f5e143184a5",
+        "android_client_info": {
+          "package_name": "com.madhu.dice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287408029504-5vqnlu65jckfofd4r9rmt4qsn5tn77cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madhu.dice",
+            "certificate_hash": "c1fbee709338612b2790c5b1f87b8b4630bac76e"
+          }
+        },
+        {
+          "client_id": "287408029504-ljvshk32rllju4b26plnr89fbcqm4u72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXzHsr0YZfzgKyjzxb1IsRfQkKQ_uohKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287408029504-ljvshk32rllju4b26plnr89fbcqm4u72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287408029504-veb46gvhm6pgnuacmo5cih97k8c6epdc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.madhu.dice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
