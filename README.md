@@ -5,7 +5,12 @@ This is a **simple game** that can support **Realtime Data & Offline Caching** u
 I call this "**Stream-based** Architecture for Flutter & Firebase **Realtime** Apps".
 
 # Demo
-![Demo](gif)
+![Demo](https://github.com/madhu6264/Roll-a-Dice/blob/master/roll_a_dice.gif)
+
+# Release APK
+![Release APK](https://github.com/madhu6264/Roll-a-Dice/blob/master/app-release.apk)
+
+
 
 # Features
 * Firebase Authentication
@@ -21,7 +26,7 @@ I call this "**Stream-based** Architecture for Flutter & Firebase **Realtime** A
 
 In the command terminal, run the following commands:
 
-    $ git clone
+    $ git clone https://github.com/madhu6264/Roll-a-Dice/tree/master
     $ cd FlatApp-Firebase-Flutter/
 
 #### Setup Flutter Firebase integration
