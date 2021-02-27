@@ -27,7 +27,7 @@ I call this "**Stream-based** Architecture for Flutter & Firebase **Realtime** A
 In the command terminal, run the following commands:
 
     $ git clone https://github.com/madhu6264/Roll-a-Dice/tree/master
-    $ cd FlatApp-Firebase-Flutter/
+    $ cd Roll-a-Dice/
 
 #### Setup Flutter Firebase integration
 Check out the [documentation](https://codelabs.developers.google.com/codelabs/flutter-firebase/#4) to setup Flutter Firebase integration.
